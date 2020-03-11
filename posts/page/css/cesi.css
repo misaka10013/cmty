@@ -1,0 +1,52 @@
+ul.daohang
+{
+    list-style-type:none;
+    margin-top:0;
+	padding-left:0;
+	overflow:hidden;
+
+}
+.daohang li
+{
+    float:left;
+}
+.daohang a:link,a:visited
+{
+	display:block;
+	width:120px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#98bf21;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+.daohang a:hover,a:active
+{
+	background-color:#7A991A;
+}
+
+ul.xiangmu {list-style-type:hiragana;}
+body
+{
+    background-color:#96B97D;
+}
+
+div.hezi
+{
+    background-color:#FFFFFF;
+	margin:auto;
+    width:250px;
+	padding:20px;
+	border:5px solid gray;
+
+}
+div.ding
+{
+	margin:0 auto;
+	width:385px;
+	height:28px;
+	border:1px solid #96D97D;
+	padding:20px;
+}
